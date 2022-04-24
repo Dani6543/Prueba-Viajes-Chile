@@ -1,13 +1,14 @@
 .fondo{
     background-color: black;
 }
-.color{
+#qs2{
     color: #fff;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 30px;
 }
 #icon{
     text-align: center;
-    
-}
-.p{
     color: #fff;
 }
