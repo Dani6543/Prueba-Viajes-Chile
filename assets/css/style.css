@@ -36,3 +36,24 @@
     margin-bottom: 50px;
     font-size: 30px;
 }
+div.formato{
+    color: white;
+    margin-top: 3%;
+    text-align: right;
+    }
+    aside{
+        text-align: left;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 300;
+    }
+    .icon{
+        text-align: right;
+    }
+div.formato aside, .icon{
+    display: inline-block;
+    width: 80%;
+    vertical-align: middle;
+    padding: 1%;
+    font-size: x-large;
+
+}
